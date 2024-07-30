@@ -936,5 +936,5 @@ I am excited about the opportunity to bring my diverse skill set, passion for te
 - I’m very interested in scalability, and I’d love to learn more about it. What opportunities are there at this company to learn more about this?
 
 ## 📇 Other Resources
-- [Grokking the Behavioral Interview](https://www.educative.io/courses/grokking-the-behavioral-interview?aff=BZyO)
+- [Grokking the Behavioral Interview](https://github.com/annkurshandilya/grokking)
 - [Amazon Leadership principles](https://www.amazon.jobs/content/en/our-workplace/leadership-principles)
