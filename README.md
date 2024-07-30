@@ -1,9 +1,6 @@
 <p align="center">
   <img src="images/behvaioral-repo-logo.png" width="350" height="200">
 </p>
-<p align="center">
-  <a href="https://blog.algomaster.io/">Join Free Newsletter</a>
-</p>
 
 This repository contains tips and resources to prepare for Behavioral interviews.
 
